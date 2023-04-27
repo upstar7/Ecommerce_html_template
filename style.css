@@ -31,8 +31,8 @@ body {
 .container {
     max-width: 1420px;
     width: calc(100% - 100px);
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 /* navbar */
@@ -356,7 +356,7 @@ body {
 
 .products__items {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
     justify-items: center;
     margin-top: 60px;
 }
